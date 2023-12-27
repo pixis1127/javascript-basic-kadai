@@ -8,7 +8,7 @@ for (let i = 0; i< 15; i++){
 
 
 //while文
-let i = 0;
+let i = 0-1;
 while (i < 15){
     i++;
     console.log(holidays[i]);
